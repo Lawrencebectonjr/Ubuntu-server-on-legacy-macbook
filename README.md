@@ -135,20 +135,31 @@ ___________
 Step 7: Install Network Manager
 
 Once internet access is available:
+
 sudo apt update
+
 sudo apt install network-manager -y
+
 Enable and start service:
+
 sudo systemctl enable NetworkManager
+
 sudo systemctl start NetworkManager
 __________
 Step 8: Connect to Wi-Fi via CLI
 
 List available networks
+
 nmcli device wifi list
+
 Connect to Wi-Fi:
+
 sudo nmcli device wifi connect "SSID_NAME" password "PASSWORD"
+
 Confirm:
+
 ip a
+
 ping -c 4 google.com
 _____________
 Step 9: System Update & Hardening
