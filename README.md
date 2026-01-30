@@ -217,8 +217,7 @@ Real-world Linux problem solving
 Comfort working without GUIs
 
 Ability to document technical processes clearly
-
-
+____________________
 
 
 
@@ -227,6 +226,6 @@ Lawrence Becton Jr
 Aspiring Systems / Cloud / Infrastructure Engineer
 
 
-
+_______________
 License
 MIT (or Personal Educational Project)
