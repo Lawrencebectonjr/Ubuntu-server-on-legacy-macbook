@@ -93,9 +93,13 @@ __________________
 Step 4: First Boot Verification
 
 Log in locally and verify system state:
+
 lsb_release -a
+
 uname -a
+
 Confirmed:
+
 Ubuntu Server 24.04 LTS
 
 system boots successfully on legacy Apple hardware
@@ -187,6 +191,7 @@ Set up Samba shares
 _______________
 
 Skills Demonstrated: 
+
 
 Linux server installation on unsupported hardware
 
