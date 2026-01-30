@@ -221,11 +221,13 @@ ____________________
 
 
 
-Author
-Lawrence Becton Jr
+Author: 
+
+Lawrence Becton Jr -
 Aspiring Systems / Cloud / Infrastructure Engineer
 
 
 _______________
-License
+License:
+
 MIT (or Personal Educational Project)
