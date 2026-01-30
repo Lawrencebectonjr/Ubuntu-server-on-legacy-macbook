@@ -219,9 +219,14 @@ Comfort working without GUIs
 Ability to document technical processes clearly
 
 
+
+
+
 Author
 Lawrence Becton Jr
 Aspiring Systems / Cloud / Infrastructure Engineer
+
+
 
 License
 MIT (or Personal Educational Project)
