@@ -83,7 +83,7 @@ Profile:
 
 Username: serveruser
 
-Hostname: blackflix
+Hostname: trackplix
 
 Enable SSH: ✅ Yes
 
